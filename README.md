@@ -1,13 +1,15 @@
-#note Tools
+# Note Tools
    
     Hack FB
 
-#Chenall
+# Chenall
 
 https://t.me/BESTxHACKER
 
-#commands Tool
+# commands Tool
 
-$ git clone https://github.com/fardinHack/FB.git
-$ cd FB
-$ python FB.py
+     git clone https://github.com/fardinHack/FB.git
+    
+     cd FB
+#Run
+     python FB.py
