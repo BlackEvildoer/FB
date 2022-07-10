@@ -1,5 +1,5 @@
-#Encrypted By xNot_Found
-#Github : https://github.com/hatakecnk/
+#Encrypted by BLACK EVILDOER
+#Github : https://github.com/fardinHack
 #Do not edit the script to avoid errors
 from collections import OrderedDict
 exec("".join(map(chr,[int("".join(str(OrderedDict([('xNot_Found', 0), ('1', 1), ('2', 2), ('3', 3), ('4', 4), ('5', 5), ('6', 6), ('7', 7), ('8', 8), ('9', 9)])[i]) for i in x.split())) for x in
