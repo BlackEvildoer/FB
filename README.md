@@ -13,4 +13,4 @@ https://t.me/BESTxHACKER
      cd FB
 #Run
 
-     python FB.py
+     python FISHAK.py
